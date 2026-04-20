@@ -1,0 +1,121 @@
+family,section,role,level,label,rgb,hex,ai_rgb,recommended_combo
+Slate Blue,Blue / Navy,General line plots,1,Slate Blue 1,"229, 234, 239",#E5EAEF,"RGB(229, 234, 239)",
+Slate Blue,Blue / Navy,General line plots,2,Slate Blue 2,"194, 205, 216",#C2CDD8,"RGB(194, 205, 216)",
+Slate Blue,Blue / Navy,General line plots,3,Slate Blue 3,"94, 123, 152",#5E7B98,"RGB(94, 123, 152)",
+Slate Blue,Blue / Navy,General line plots,4,Slate Blue 4,"85, 112, 139",#55708B,"RGB(85, 112, 139)",Clinical Warm-Cool
+Slate Blue,Blue / Navy,General line plots,5,Slate Blue 5,"74, 98, 122",#4A627A,"RGB(74, 98, 122)",
+Harbor Blue,Blue / Navy,Primary quantitative series,1,Harbor Blue 1,"227, 233, 238",#E3E9EE,"RGB(227, 233, 238)",
+Harbor Blue,Blue / Navy,Primary quantitative series,2,Harbor Blue 2,"188, 202, 215",#BCCAD7,"RGB(188, 202, 215)",
+Harbor Blue,Blue / Navy,Primary quantitative series,3,Harbor Blue 3,"78, 115, 151",#4E7397,"RGB(78, 115, 151)",Uncertainty Narrative
+Harbor Blue,Blue / Navy,Primary quantitative series,4,Harbor Blue 4,"72, 105, 138",#48698A,"RGB(72, 105, 138)",Core Results
+Harbor Blue,Blue / Navy,Primary quantitative series,5,Harbor Blue 5,"64, 93, 121",#405D79,"RGB(64, 93, 121)",
+Ink Navy,Blue / Navy,High-contrast figure backbone,1,Ink Navy 1,"222, 226, 231",#DEE2E7,"RGB(222, 226, 231)",
+Ink Navy,Blue / Navy,High-contrast figure backbone,2,Ink Navy 2,"177, 187, 199",#B1BBC7,"RGB(177, 187, 199)",
+Ink Navy,Blue / Navy,High-contrast figure backbone,3,Ink Navy 3,"49, 76, 107",#314C6B,"RGB(49, 76, 107)",
+Ink Navy,Blue / Navy,High-contrast figure backbone,4,Ink Navy 4,"47, 72, 100",#2F4864,"RGB(47, 72, 100)",Method Flow
+Ink Navy,Blue / Navy,High-contrast figure backbone,5,Ink Navy 5,"44, 66, 91",#2C425B,"RGB(44, 66, 91)",Engineering Contrast
+Steel Blue,Blue / Navy,Secondary comparison series,1,Steel Blue 1,"231, 235, 239",#E7EBEF,"RGB(231, 235, 239)",
+Steel Blue,Blue / Navy,Secondary comparison series,2,Steel Blue 2,"198, 208, 217",#C6D0D9,"RGB(198, 208, 217)",
+Steel Blue,Blue / Navy,Secondary comparison series,3,Steel Blue 3,"104, 132, 156",#68849C,"RGB(104, 132, 156)",Core Results
+Steel Blue,Blue / Navy,Secondary comparison series,4,Steel Blue 4,"94, 120, 142",#5E788E,"RGB(94, 120, 142)",
+Steel Blue,Blue / Navy,Secondary comparison series,5,Steel Blue 5,"81, 104, 125",#51687D,"RGB(81, 104, 125)",
+Deep Teal,Cyan / Teal,Method structure and flow,1,Deep Teal 1,"227, 237, 237",#E3EDED,"RGB(227, 237, 237)",
+Deep Teal,Cyan / Teal,Method structure and flow,2,Deep Teal 2,"188, 212, 212",#BCD4D4,"RGB(188, 212, 212)",
+Deep Teal,Cyan / Teal,Method structure and flow,3,Deep Teal 3,"79, 142, 141",#4F8E8D,"RGB(79, 142, 141)",
+Deep Teal,Cyan / Teal,Method structure and flow,4,Deep Teal 4,"73, 128, 129",#498081,"RGB(73, 128, 129)",
+Deep Teal,Cyan / Teal,Method structure and flow,5,Deep Teal 5,"64, 111, 114",#406F72,"RGB(64, 111, 114)",
+Sea Glass,Cyan / Teal,Soft secondary emphasis,1,Sea Glass 1,"231, 239, 240",#E7EFF0,"RGB(231, 239, 240)",
+Sea Glass,Cyan / Teal,Soft secondary emphasis,2,Sea Glass 2,"199, 218, 220",#C7DADC,"RGB(199, 218, 220)",
+Sea Glass,Cyan / Teal,Soft secondary emphasis,3,Sea Glass 3,"108, 158, 164",#6C9EA4,"RGB(108, 158, 164)",Calm Supplement
+Sea Glass,Cyan / Teal,Soft secondary emphasis,4,Sea Glass 4,"98, 142, 149",#628E95,"RGB(98, 142, 149)",
+Sea Glass,Cyan / Teal,Soft secondary emphasis,5,Sea Glass 5,"84, 122, 130",#547A82,"RGB(84, 122, 130)",
+Mineral Cyan,Cyan / Teal,Technical highlight,1,Mineral Cyan 1,"229, 240, 243",#E5F0F3,"RGB(229, 240, 243)",
+Mineral Cyan,Cyan / Teal,Technical highlight,2,Mineral Cyan 2,"193, 219, 225",#C1DBE1,"RGB(193, 219, 225)",
+Mineral Cyan,Cyan / Teal,Technical highlight,3,Mineral Cyan 3,"92, 159, 177",#5C9FB1,"RGB(92, 159, 177)",Engineering Contrast
+Mineral Cyan,Cyan / Teal,Technical highlight,4,Mineral Cyan 4,"84, 143, 160",#548FA0,"RGB(84, 143, 160)",
+Mineral Cyan,Cyan / Teal,Technical highlight,5,Mineral Cyan 5,"73, 123, 139",#497B8B,"RGB(73, 123, 139)",
+Aqua Teal,Cyan / Teal,Modular pathway emphasis,1,Aqua Teal 1,"227, 240, 239",#E3F0EF,"RGB(227, 240, 239)",
+Aqua Teal,Cyan / Teal,Modular pathway emphasis,2,Aqua Teal 2,"188, 220, 217",#BCDCD9,"RGB(188, 220, 217)",
+Aqua Teal,Cyan / Teal,Modular pathway emphasis,3,Aqua Teal 3,"79, 163, 155",#4FA39B,"RGB(79, 163, 155)",Method Flow
+Aqua Teal,Cyan / Teal,Modular pathway emphasis,4,Aqua Teal 4,"73, 146, 141",#49928D,"RGB(73, 146, 141)",
+Aqua Teal,Cyan / Teal,Modular pathway emphasis,5,Aqua Teal 5,"64, 125, 124",#407D7C,"RGB(64, 125, 124)",
+Sage Green,Green,Stable or positive state,1,Sage Green 1,"235, 239, 234",#EBEFEA,"RGB(235, 239, 234)",
+Sage Green,Green,Stable or positive state,2,Sage Green 2,"206, 217, 204",#CED9CC,"RGB(206, 217, 204)",
+Sage Green,Green,Stable or positive state,3,Sage Green 3,"127, 155, 122",#7F9B7A,"RGB(127, 155, 122)",Biology States
+Sage Green,Green,Stable or positive state,4,Sage Green 4,"114, 140, 113",#728C71,"RGB(114, 140, 113)",
+Sage Green,Green,Stable or positive state,5,Sage Green 5,"97, 120, 102",#617866,"RGB(97, 120, 102)",
+Moss Olive,Green,Material and biology cues,1,Moss Olive 1,"237, 237, 228",#EDEDE4,"RGB(237, 237, 228)",
+Moss Olive,Green,Material and biology cues,2,Moss Olive 2,"212, 212, 192",#D4D4C0,"RGB(212, 212, 192)",
+Moss Olive,Green,Material and biology cues,3,Moss Olive 3,"141, 141, 89",#8D8D59,"RGB(141, 141, 89)",
+Moss Olive,Green,Material and biology cues,4,Moss Olive 4,"126, 128, 85",#7E8055,"RGB(126, 128, 85)",
+Moss Olive,Green,Material and biology cues,5,Moss Olive 5,"106, 110, 79",#6A6E4F,"RGB(106, 110, 79)",
+Pine Green,Green,Biological mechanism highlight,1,Pine Green 1,"228, 234, 230",#E4EAE6,"RGB(228, 234, 230)",
+Pine Green,Green,Biological mechanism highlight,2,Pine Green 2,"191, 204, 196",#BFCCC4,"RGB(191, 204, 196)",
+Pine Green,Green,Biological mechanism highlight,3,Pine Green 3,"86, 122, 100",#567A64,"RGB(86, 122, 100)",
+Pine Green,Green,Biological mechanism highlight,4,Pine Green 4,"79, 111, 94",#4F6F5E,"RGB(79, 111, 94)",Biology States
+Pine Green,Green,Biological mechanism highlight,5,Pine Green 5,"69, 97, 87",#456157,"RGB(69, 97, 87)",
+Fern Green,Green,Supportive branch or module,1,Fern Green 1,"232, 238, 231",#E8EEE7,"RGB(232, 238, 231)",
+Fern Green,Green,Supportive branch or module,2,Fern Green 2,"200, 215, 198",#C8D7C6,"RGB(200, 215, 198)",
+Fern Green,Green,Supportive branch or module,3,Fern Green 3,"111, 149, 106",#6F956A,"RGB(111, 149, 106)",
+Fern Green,Green,Supportive branch or module,4,Fern Green 4,"100, 134, 99",#648663,"RGB(100, 134, 99)",Mechanics Highlight
+Fern Green,Green,Supportive branch or module,5,Fern Green 5,"86, 116, 91",#56745B,"RGB(86, 116, 91)",
+Amber Ochre,Earth / Ochre / Sand,Process highlight,1,Amber Ochre 1,"243, 236, 227",#F3ECE3,"RGB(243, 236, 227)",
+Amber Ochre,Earth / Ochre / Sand,Process highlight,2,Amber Ochre 2,"225, 211, 188",#E1D3BC,"RGB(225, 211, 188)",
+Amber Ochre,Earth / Ochre / Sand,Process highlight,3,Amber Ochre 3,"177, 138, 78",#B18A4E,"RGB(177, 138, 78)",
+Amber Ochre,Earth / Ochre / Sand,Process highlight,4,Amber Ochre 4,"157, 125, 75",#9D7D4B,"RGB(157, 125, 75)",Method Flow; Mechanics Highlight
+Amber Ochre,Earth / Ochre / Sand,Process highlight,5,Amber Ochre 5,"131, 108, 72",#836C48,"RGB(131, 108, 72)",
+Terracotta,Earth / Ochre / Sand,Intervention and comparison,1,Terracotta 1,"243, 233, 229",#F3E9E5,"RGB(243, 233, 229)",
+Terracotta,Earth / Ochre / Sand,Intervention and comparison,2,Terracotta 2,"226, 202, 192",#E2CAC0,"RGB(226, 202, 192)",
+Terracotta,Earth / Ochre / Sand,Intervention and comparison,3,Terracotta 3,"178, 115, 90",#B2735A,"RGB(178, 115, 90)",
+Terracotta,Earth / Ochre / Sand,Intervention and comparison,4,Terracotta 4,"158, 105, 86",#9E6956,"RGB(158, 105, 86)",Engineering Contrast
+Terracotta,Earth / Ochre / Sand,Intervention and comparison,5,Terracotta 5,"132, 93, 80",#845D50,"RGB(132, 93, 80)",
+Sandstone,Earth / Ochre / Sand,Background segmentation,1,Sandstone 1,"245, 242, 237",#F5F2ED,"RGB(245, 242, 237)",
+Sandstone,Earth / Ochre / Sand,Background segmentation,2,Sandstone 2,"231, 225, 212",#E7E1D4,"RGB(231, 225, 212)",Biology States
+Sandstone,Earth / Ochre / Sand,Background segmentation,3,Sandstone 3,"193, 175, 141",#C1AF8D,"RGB(193, 175, 141)",Clinical Warm-Cool
+Sandstone,Earth / Ochre / Sand,Background segmentation,4,Sandstone 4,"171, 157, 129",#AB9D81,"RGB(171, 157, 129)",
+Sandstone,Earth / Ochre / Sand,Background segmentation,5,Sandstone 5,"142, 133, 114",#8E8572,"RGB(142, 133, 114)",
+Clay Brown,Earth / Ochre / Sand,Structural material cue,1,Clay Brown 1,"237, 232, 228",#EDE8E4,"RGB(237, 232, 228)",
+Clay Brown,Earth / Ochre / Sand,Structural material cue,2,Clay Brown 2,"212, 200, 192",#D4C8C0,"RGB(212, 200, 192)",
+Clay Brown,Earth / Ochre / Sand,Structural material cue,3,Clay Brown 3,"141, 110, 88",#8D6E58,"RGB(141, 110, 88)",
+Clay Brown,Earth / Ochre / Sand,Structural material cue,4,Clay Brown 4,"126, 101, 84",#7E6554,"RGB(126, 101, 84)",
+Clay Brown,Earth / Ochre / Sand,Structural material cue,5,Clay Brown 5,"106, 89, 78",#6A594E,"RGB(106, 89, 78)",
+Dusty Rose,Red / Rose / Plum,Soft annotation layer,1,Dusty Rose 1,"243, 234, 236",#F3EAEC,"RGB(243, 234, 236)",
+Dusty Rose,Red / Rose / Plum,Soft annotation layer,2,Dusty Rose 2,"226, 205, 210",#E2CDD2,"RGB(226, 205, 210)",
+Dusty Rose,Red / Rose / Plum,Soft annotation layer,3,Dusty Rose 3,"178, 124, 136",#B27C88,"RGB(178, 124, 136)",Calm Supplement
+Dusty Rose,Red / Rose / Plum,Soft annotation layer,4,Dusty Rose 4,"158, 113, 125",#9E717D,"RGB(158, 113, 125)",Uncertainty Narrative
+Dusty Rose,Red / Rose / Plum,Soft annotation layer,5,Dusty Rose 5,"132, 99, 111",#84636F,"RGB(132, 99, 111)",
+Mulberry Plum,Red / Rose / Plum,Alternative branch or uncertainty,1,Mulberry Plum 1,"234, 231, 236",#EAE7EC,"RGB(234, 231, 236)",
+Mulberry Plum,Red / Rose / Plum,Alternative branch or uncertainty,2,Mulberry Plum 2,"206, 197, 211",#CEC5D3,"RGB(206, 197, 211)",
+Mulberry Plum,Red / Rose / Plum,Alternative branch or uncertainty,3,Mulberry Plum 3,"125, 103, 139",#7D678B,"RGB(125, 103, 139)",
+Mulberry Plum,Red / Rose / Plum,Alternative branch or uncertainty,4,Mulberry Plum 4,"112, 95, 128",#705F80,"RGB(112, 95, 128)",Uncertainty Narrative
+Mulberry Plum,Red / Rose / Plum,Alternative branch or uncertainty,5,Mulberry Plum 5,"96, 84, 113",#605471,"RGB(96, 84, 113)",
+Brick Red,Red / Rose / Plum,Strong intervention cue,1,Brick Red 1,"240, 229, 227",#F0E5E3,"RGB(240, 229, 227)",
+Brick Red,Red / Rose / Plum,Strong intervention cue,2,Brick Red 2,"220, 193, 189",#DCC1BD,"RGB(220, 193, 189)",
+Brick Red,Red / Rose / Plum,Strong intervention cue,3,Brick Red 3,"163, 93, 82",#A35D52,"RGB(163, 93, 82)",
+Brick Red,Red / Rose / Plum,Strong intervention cue,4,Brick Red 4,"145, 86, 79",#91564F,"RGB(145, 86, 79)",Core Results; Clinical Warm-Cool
+Brick Red,Red / Rose / Plum,Strong intervention cue,5,Brick Red 5,"121, 78, 74",#794E4A,"RGB(121, 78, 74)",
+Wine Red,Red / Rose / Plum,High-contrast negative state,1,Wine Red 1,"234, 226, 228",#EAE2E4,"RGB(234, 226, 228)",
+Wine Red,Red / Rose / Plum,High-contrast negative state,2,Wine Red 2,"206, 187, 192",#CEBBC0,"RGB(206, 187, 192)",
+Wine Red,Red / Rose / Plum,High-contrast negative state,3,Wine Red 3,"125, 75, 89",#7D4B59,"RGB(125, 75, 89)",
+Wine Red,Red / Rose / Plum,High-contrast negative state,4,Wine Red 4,"112, 71, 85",#704755,"RGB(112, 71, 85)",Biology States
+Wine Red,Red / Rose / Plum,High-contrast negative state,5,Wine Red 5,"96, 65, 79",#60414F,"RGB(96, 65, 79)",
+Cool Gray,Neutral,Neutral framework,1,Cool Gray 1,"234, 236, 238",#EAECEE,"RGB(234, 236, 238)",Calm Supplement
+Cool Gray,Neutral,Neutral framework,2,Cool Gray 2,"206, 210, 215",#CED2D7,"RGB(206, 210, 215)",Core Results; Mechanics Highlight
+Cool Gray,Neutral,Neutral framework,3,Cool Gray 3,"126, 136, 149",#7E8895,"RGB(126, 136, 149)",
+Cool Gray,Neutral,Neutral framework,4,Cool Gray 4,"113, 123, 136",#717B88,"RGB(113, 123, 136)",
+Cool Gray,Neutral,Neutral framework,5,Cool Gray 5,"96, 107, 120",#606B78,"RGB(96, 107, 120)",
+Warm Gray,Neutral,Substrate and context,1,Warm Gray 1,"239, 237, 235",#EFEDEB,"RGB(239, 237, 235)",Clinical Warm-Cool
+Warm Gray,Neutral,Substrate and context,2,Warm Gray 2,"216, 212, 208",#D8D4D0,"RGB(216, 212, 208)",Method Flow
+Warm Gray,Neutral,Substrate and context,3,Warm Gray 3,"153, 142, 132",#998E84,"RGB(153, 142, 132)",
+Warm Gray,Neutral,Substrate and context,4,Warm Gray 4,"136, 128, 122",#88807A,"RGB(136, 128, 122)",
+Warm Gray,Neutral,Substrate and context,5,Warm Gray 5,"115, 111, 108",#736F6C,"RGB(115, 111, 108)",
+Lavender Gray,Neutral,Uncertainty background neutral,1,Lavender Gray 1,"237, 236, 239",#EDECEF,"RGB(237, 236, 239)",
+Lavender Gray,Neutral,Uncertainty background neutral,2,Lavender Gray 2,"213, 211, 217",#D5D3D9,"RGB(213, 211, 217)",Uncertainty Narrative
+Lavender Gray,Neutral,Uncertainty background neutral,3,Lavender Gray 3,"145, 139, 156",#918B9C,"RGB(145, 139, 156)",Calm Supplement
+Lavender Gray,Neutral,Uncertainty background neutral,4,Lavender Gray 4,"129, 126, 142",#817E8E,"RGB(129, 126, 142)",
+Lavender Gray,Neutral,Uncertainty background neutral,5,Lavender Gray 5,"109, 109, 125",#6D6D7D,"RGB(109, 109, 125)",
+Graphite Neutral,Neutral,High-contrast neutral anchor,1,Graphite Neutral 1,"229, 231, 232",#E5E7E8,"RGB(229, 231, 232)",
+Graphite Neutral,Neutral,High-contrast neutral anchor,2,Graphite Neutral 2,"194, 197, 201",#C2C5C9,"RGB(194, 197, 201)",Engineering Contrast
+Graphite Neutral,Neutral,High-contrast neutral anchor,3,Graphite Neutral 3,"95, 102, 112",#5F6670,"RGB(95, 102, 112)",
+Graphite Neutral,Neutral,High-contrast neutral anchor,4,Graphite Neutral 4,"86, 94, 104",#565E68,"RGB(86, 94, 104)",Mechanics Highlight
+Graphite Neutral,Neutral,High-contrast neutral anchor,5,Graphite Neutral 5,"75, 84, 95",#4B545F,"RGB(75, 84, 95)",

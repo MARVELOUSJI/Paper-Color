@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1296" height="4116" viewBox="0 0 1296 4116">
+<rect width="100%" height="100%" fill="#FAFBFC"/>
+<text x="56" y="48" font-family="Georgia, Times New Roman, serif" font-size="28" fill="#1F2D3A">Nature Communications-Inspired Scientific Palette</text>
+<text x="56" y="76" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#516070">24 families x 5 tones. Left to right: light to dark. Tuned for white-background research figures and method diagrams.</text>
+<text x="56" y="97" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6D7A86">The top summary gives curated color combinations. The full catalog below keeps the selection broad without turning into visual noise.</text>
+<text x="56" y="134" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#243240">Recommended Scientific Pairings</text>
+<text x="56" y="156" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#667382">Start here when you want fast, balanced figure styling. Each set includes a primary, secondary, accent, and neutral anchor.</text>
+<rect x="56" y="190" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="70" y="212" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Core Results</text>
+<text x="70" y="229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Main multi-series result figure with one crisp comparator and a quiet neutral support.</text>
+<text x="68" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="68" y="246" width="59" height="26" rx="8" ry="8" fill="#48698A" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="68" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Harbor Blue 4</text>
+<text x="68" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#48698A</text>
+<text x="135" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="135" y="246" width="59" height="26" rx="8" ry="8" fill="#68849C" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="135" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Steel Blue 3</text>
+<text x="135" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#68849C</text>
+<text x="202" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="202" y="246" width="59" height="26" rx="8" ry="8" fill="#91564F" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="202" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Brick Red 4</text>
+<text x="202" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#91564F</text>
+<text x="269" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="269" y="246" width="59" height="26" rx="8" ry="8" fill="#CED2D7" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="269" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Cool Gray 2</text>
+<text x="269" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#CED2D7</text>
+<rect x="356" y="190" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="370" y="212" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Method Flow</text>
+<text x="370" y="229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Clean pipeline and module diagrams with cool structure, warm signal, and soft context.</text>
+<text x="368" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="368" y="246" width="59" height="26" rx="8" ry="8" fill="#2F4864" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="368" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Ink Navy 4</text>
+<text x="368" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#2F4864</text>
+<text x="435" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="435" y="246" width="59" height="26" rx="8" ry="8" fill="#4FA39B" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="435" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Aqua Teal 3</text>
+<text x="435" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#4FA39B</text>
+<text x="502" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="502" y="246" width="59" height="26" rx="8" ry="8" fill="#9D7D4B" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="502" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Amber Ochre 4</text>
+<text x="502" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#9D7D4B</text>
+<text x="569" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="569" y="246" width="59" height="26" rx="8" ry="8" fill="#D8D4D0" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="569" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Warm Gray 2</text>
+<text x="569" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#D8D4D0</text>
+<rect x="656" y="190" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="670" y="212" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Biology States</text>
+<text x="670" y="229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Good for state transitions, tissue regions, or biological mechanisms with one caution color.</text>
+<text x="668" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="668" y="246" width="59" height="26" rx="8" ry="8" fill="#4F6F5E" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="668" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Pine Green 4</text>
+<text x="668" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#4F6F5E</text>
+<text x="735" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="735" y="246" width="59" height="26" rx="8" ry="8" fill="#7F9B7A" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="735" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Sage Green 3</text>
+<text x="735" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#7F9B7A</text>
+<text x="802" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="802" y="246" width="59" height="26" rx="8" ry="8" fill="#704755" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="802" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Wine Red 4</text>
+<text x="802" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#704755</text>
+<text x="869" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="869" y="246" width="59" height="26" rx="8" ry="8" fill="#E7E1D4" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="869" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Sandstone 2</text>
+<text x="869" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#E7E1D4</text>
+<rect x="956" y="190" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="970" y="212" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Engineering Contrast</text>
+<text x="970" y="229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Sharper technical contrast for robotics, systems, and ablation diagrams.</text>
+<text x="968" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="968" y="246" width="59" height="26" rx="8" ry="8" fill="#2C425B" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="968" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Ink Navy 5</text>
+<text x="968" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#2C425B</text>
+<text x="1035" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="1035" y="246" width="59" height="26" rx="8" ry="8" fill="#5C9FB1" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1035" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Mineral Cyan 3</text>
+<text x="1035" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#5C9FB1</text>
+<text x="1102" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="1102" y="246" width="59" height="26" rx="8" ry="8" fill="#9E6956" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1102" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Terracotta 4</text>
+<text x="1102" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#9E6956</text>
+<text x="1169" y="240" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="1169" y="246" width="59" height="26" rx="8" ry="8" fill="#C2C5C9" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1169" y="286" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Graphite Neutral 2</text>
+<text x="1169" y="299" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#C2C5C9</text>
+<rect x="56" y="340" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="70" y="362" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Calm Supplement</text>
+<text x="70" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Soft supplementary figures or appendix visuals where lower visual pressure matters.</text>
+<text x="68" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="68" y="396" width="59" height="26" rx="8" ry="8" fill="#6C9EA4" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="68" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Sea Glass 3</text>
+<text x="68" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#6C9EA4</text>
+<text x="135" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="135" y="396" width="59" height="26" rx="8" ry="8" fill="#918B9C" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="135" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Lavender Gray 3</text>
+<text x="135" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#918B9C</text>
+<text x="202" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="202" y="396" width="59" height="26" rx="8" ry="8" fill="#B27C88" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="202" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Dusty Rose 3</text>
+<text x="202" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#B27C88</text>
+<text x="269" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="269" y="396" width="59" height="26" rx="8" ry="8" fill="#EAECEE" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="269" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Cool Gray 1</text>
+<text x="269" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#EAECEE</text>
+<rect x="356" y="340" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="370" y="362" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Clinical Warm-Cool</text>
+<text x="370" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Balanced warm-cool composition for comparative figures with human-readable contrast.</text>
+<text x="368" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="368" y="396" width="59" height="26" rx="8" ry="8" fill="#55708B" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="368" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Slate Blue 4</text>
+<text x="368" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#55708B</text>
+<text x="435" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="435" y="396" width="59" height="26" rx="8" ry="8" fill="#C1AF8D" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="435" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Sandstone 3</text>
+<text x="435" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#C1AF8D</text>
+<text x="502" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="502" y="396" width="59" height="26" rx="8" ry="8" fill="#91564F" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="502" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Brick Red 4</text>
+<text x="502" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#91564F</text>
+<text x="569" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="569" y="396" width="59" height="26" rx="8" ry="8" fill="#EFEDEB" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="569" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Warm Gray 1</text>
+<text x="569" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#EFEDEB</text>
+<rect x="656" y="340" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="670" y="362" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Mechanics Highlight</text>
+<text x="670" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Strong structure with a restrained green and amber cue for mechanics or apparatus illustrations.</text>
+<text x="668" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="668" y="396" width="59" height="26" rx="8" ry="8" fill="#565E68" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="668" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Graphite Neutral 4</text>
+<text x="668" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#565E68</text>
+<text x="735" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="735" y="396" width="59" height="26" rx="8" ry="8" fill="#648663" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="735" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Fern Green 4</text>
+<text x="735" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#648663</text>
+<text x="802" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="802" y="396" width="59" height="26" rx="8" ry="8" fill="#9D7D4B" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="802" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Amber Ochre 4</text>
+<text x="802" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#9D7D4B</text>
+<text x="869" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="869" y="396" width="59" height="26" rx="8" ry="8" fill="#CED2D7" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="869" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Cool Gray 2</text>
+<text x="869" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#CED2D7</text>
+<rect x="956" y="340" width="284" height="132" rx="14" ry="14" fill="#FFFFFF" stroke="#D7DEE7" stroke-width="1.2"/>
+<text x="970" y="362" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#243240">Uncertainty Narrative</text>
+<text x="970" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#667382">Useful when uncertainty, alternatives, and confidence bands need a more nuanced palette.</text>
+<text x="968" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Primary</text>
+<rect x="968" y="396" width="59" height="26" rx="8" ry="8" fill="#705F80" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="968" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Mulberry Plum 4</text>
+<text x="968" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#705F80</text>
+<text x="1035" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Secondary</text>
+<rect x="1035" y="396" width="59" height="26" rx="8" ry="8" fill="#4E7397" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1035" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Harbor Blue 3</text>
+<text x="1035" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#4E7397</text>
+<text x="1102" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Accent</text>
+<rect x="1102" y="396" width="59" height="26" rx="8" ry="8" fill="#9E717D" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1102" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Dusty Rose 4</text>
+<text x="1102" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#9E717D</text>
+<text x="1169" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5E6C78">Neutral</text>
+<rect x="1169" y="396" width="59" height="26" rx="8" ry="8" fill="#D5D3D9" stroke="#D1D9E0" stroke-width="0.6"/>
+<text x="1169" y="436" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#2B3947">Lavender Gray 2</text>
+<text x="1169" y="449" font-family="Menlo, Consolas, monospace" font-size="8.5" fill="#6A7885">#D5D3D9</text>
+<text x="56" y="508" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#243240">Full Palette Catalog</text>
+<text x="56" y="530" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#667382">Families are grouped by color section so the broader selection remains scannable.</text>
+<text x="56" y="550" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Blue / Navy</text>
+<line x1="56" y1="560" x2="1240" y2="560" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="606" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Slate Blue</text>
+<text x="56" y="628" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">General line plots</text>
+<rect x="276" y="582" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="582" width="180" height="56" rx="12" ry="12" fill="#E5EAEF"/>
+<text x="288" y="604" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Slate Blue 1</text>
+<text x="288" y="656" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 229, 234, 239</text>
+<text x="288" y="673" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E5EAEF</text>
+<text x="288" y="689" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(229, 234, 239)</text>
+<rect x="472" y="582" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="582" width="180" height="56" rx="12" ry="12" fill="#C2CDD8"/>
+<text x="484" y="604" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Slate Blue 2</text>
+<text x="484" y="656" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 194, 205, 216</text>
+<text x="484" y="673" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C2CDD8</text>
+<text x="484" y="689" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(194, 205, 216)</text>
+<rect x="668" y="582" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="582" width="180" height="56" rx="12" ry="12" fill="#5E7B98"/>
+<text x="680" y="604" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Slate Blue 3</text>
+<text x="680" y="656" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 94, 123, 152</text>
+<text x="680" y="673" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #5E7B98</text>
+<text x="680" y="689" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(94, 123, 152)</text>
+<rect x="864" y="582" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="582" width="180" height="56" rx="12" ry="12" fill="#55708B"/>
+<text x="876" y="604" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Slate Blue 4</text>
+<text x="876" y="656" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 85, 112, 139</text>
+<text x="876" y="673" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #55708B</text>
+<text x="876" y="689" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(85, 112, 139)</text>
+<rect x="1060" y="582" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="582" width="180" height="56" rx="12" ry="12" fill="#4A627A"/>
+<text x="1072" y="604" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Slate Blue 5</text>
+<text x="1072" y="656" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 74, 98, 122</text>
+<text x="1072" y="673" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4A627A</text>
+<text x="1072" y="689" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(74, 98, 122)</text>
+<text x="56" y="740" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Harbor Blue</text>
+<text x="56" y="762" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Primary quantitative series</text>
+<rect x="276" y="716" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="716" width="180" height="56" rx="12" ry="12" fill="#E3E9EE"/>
+<text x="288" y="738" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Harbor Blue 1</text>
+<text x="288" y="790" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 227, 233, 238</text>
+<text x="288" y="807" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E3E9EE</text>
+<text x="288" y="823" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(227, 233, 238)</text>
+<rect x="472" y="716" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="716" width="180" height="56" rx="12" ry="12" fill="#BCCAD7"/>
+<text x="484" y="738" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Harbor Blue 2</text>
+<text x="484" y="790" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 188, 202, 215</text>
+<text x="484" y="807" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #BCCAD7</text>
+<text x="484" y="823" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(188, 202, 215)</text>
+<rect x="668" y="716" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="716" width="180" height="56" rx="12" ry="12" fill="#4E7397"/>
+<text x="680" y="738" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Harbor Blue 3</text>
+<text x="680" y="790" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 78, 115, 151</text>
+<text x="680" y="807" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4E7397</text>
+<text x="680" y="823" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(78, 115, 151)</text>
+<rect x="864" y="716" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="716" width="180" height="56" rx="12" ry="12" fill="#48698A"/>
+<text x="876" y="738" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Harbor Blue 4</text>
+<text x="876" y="790" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 72, 105, 138</text>
+<text x="876" y="807" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #48698A</text>
+<text x="876" y="823" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(72, 105, 138)</text>
+<rect x="1060" y="716" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="716" width="180" height="56" rx="12" ry="12" fill="#405D79"/>
+<text x="1072" y="738" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Harbor Blue 5</text>
+<text x="1072" y="790" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 64, 93, 121</text>
+<text x="1072" y="807" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #405D79</text>
+<text x="1072" y="823" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(64, 93, 121)</text>
+<text x="56" y="874" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Ink Navy</text>
+<text x="56" y="896" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">High-contrast figure backbone</text>
+<rect x="276" y="850" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="850" width="180" height="56" rx="12" ry="12" fill="#DEE2E7"/>
+<text x="288" y="872" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Ink Navy 1</text>
+<text x="288" y="924" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 222, 226, 231</text>
+<text x="288" y="941" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #DEE2E7</text>
+<text x="288" y="957" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(222, 226, 231)</text>
+<rect x="472" y="850" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="850" width="180" height="56" rx="12" ry="12" fill="#B1BBC7"/>
+<text x="484" y="872" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Ink Navy 2</text>
+<text x="484" y="924" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 177, 187, 199</text>
+<text x="484" y="941" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #B1BBC7</text>
+<text x="484" y="957" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(177, 187, 199)</text>
+<rect x="668" y="850" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="850" width="180" height="56" rx="12" ry="12" fill="#314C6B"/>
+<text x="680" y="872" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Ink Navy 3</text>
+<text x="680" y="924" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 49, 76, 107</text>
+<text x="680" y="941" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #314C6B</text>
+<text x="680" y="957" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(49, 76, 107)</text>
+<rect x="864" y="850" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="850" width="180" height="56" rx="12" ry="12" fill="#2F4864"/>
+<text x="876" y="872" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Ink Navy 4</text>
+<text x="876" y="924" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 47, 72, 100</text>
+<text x="876" y="941" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #2F4864</text>
+<text x="876" y="957" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(47, 72, 100)</text>
+<rect x="1060" y="850" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="850" width="180" height="56" rx="12" ry="12" fill="#2C425B"/>
+<text x="1072" y="872" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Ink Navy 5</text>
+<text x="1072" y="924" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 44, 66, 91</text>
+<text x="1072" y="941" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #2C425B</text>
+<text x="1072" y="957" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(44, 66, 91)</text>
+<text x="56" y="1008" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Steel Blue</text>
+<text x="56" y="1030" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Secondary comparison series</text>
+<rect x="276" y="984" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="984" width="180" height="56" rx="12" ry="12" fill="#E7EBEF"/>
+<text x="288" y="1006" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Steel Blue 1</text>
+<text x="288" y="1058" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 231, 235, 239</text>
+<text x="288" y="1075" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E7EBEF</text>
+<text x="288" y="1091" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(231, 235, 239)</text>
+<rect x="472" y="984" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="984" width="180" height="56" rx="12" ry="12" fill="#C6D0D9"/>
+<text x="484" y="1006" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Steel Blue 2</text>
+<text x="484" y="1058" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 198, 208, 217</text>
+<text x="484" y="1075" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C6D0D9</text>
+<text x="484" y="1091" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(198, 208, 217)</text>
+<rect x="668" y="984" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="984" width="180" height="56" rx="12" ry="12" fill="#68849C"/>
+<text x="680" y="1006" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Steel Blue 3</text>
+<text x="680" y="1058" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 104, 132, 156</text>
+<text x="680" y="1075" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #68849C</text>
+<text x="680" y="1091" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(104, 132, 156)</text>
+<rect x="864" y="984" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="984" width="180" height="56" rx="12" ry="12" fill="#5E788E"/>
+<text x="876" y="1006" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Steel Blue 4</text>
+<text x="876" y="1058" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 94, 120, 142</text>
+<text x="876" y="1075" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #5E788E</text>
+<text x="876" y="1091" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(94, 120, 142)</text>
+<rect x="1060" y="984" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="984" width="180" height="56" rx="12" ry="12" fill="#51687D"/>
+<text x="1072" y="1006" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Steel Blue 5</text>
+<text x="1072" y="1058" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 81, 104, 125</text>
+<text x="1072" y="1075" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #51687D</text>
+<text x="1072" y="1091" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(81, 104, 125)</text>
+<text x="56" y="1116" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Cyan / Teal</text>
+<line x1="56" y1="1126" x2="1240" y2="1126" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="1172" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Deep Teal</text>
+<text x="56" y="1194" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Method structure and flow</text>
+<rect x="276" y="1148" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1148" width="180" height="56" rx="12" ry="12" fill="#E3EDED"/>
+<text x="288" y="1170" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Deep Teal 1</text>
+<text x="288" y="1222" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 227, 237, 237</text>
+<text x="288" y="1239" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E3EDED</text>
+<text x="288" y="1255" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(227, 237, 237)</text>
+<rect x="472" y="1148" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1148" width="180" height="56" rx="12" ry="12" fill="#BCD4D4"/>
+<text x="484" y="1170" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Deep Teal 2</text>
+<text x="484" y="1222" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 188, 212, 212</text>
+<text x="484" y="1239" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #BCD4D4</text>
+<text x="484" y="1255" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(188, 212, 212)</text>
+<rect x="668" y="1148" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1148" width="180" height="56" rx="12" ry="12" fill="#4F8E8D"/>
+<text x="680" y="1170" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Deep Teal 3</text>
+<text x="680" y="1222" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 79, 142, 141</text>
+<text x="680" y="1239" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4F8E8D</text>
+<text x="680" y="1255" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(79, 142, 141)</text>
+<rect x="864" y="1148" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1148" width="180" height="56" rx="12" ry="12" fill="#498081"/>
+<text x="876" y="1170" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Deep Teal 4</text>
+<text x="876" y="1222" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 73, 128, 129</text>
+<text x="876" y="1239" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #498081</text>
+<text x="876" y="1255" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(73, 128, 129)</text>
+<rect x="1060" y="1148" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1148" width="180" height="56" rx="12" ry="12" fill="#406F72"/>
+<text x="1072" y="1170" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Deep Teal 5</text>
+<text x="1072" y="1222" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 64, 111, 114</text>
+<text x="1072" y="1239" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #406F72</text>
+<text x="1072" y="1255" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(64, 111, 114)</text>
+<text x="56" y="1306" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Sea Glass</text>
+<text x="56" y="1328" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Soft secondary emphasis</text>
+<rect x="276" y="1282" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1282" width="180" height="56" rx="12" ry="12" fill="#E7EFF0"/>
+<text x="288" y="1304" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sea Glass 1</text>
+<text x="288" y="1356" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 231, 239, 240</text>
+<text x="288" y="1373" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E7EFF0</text>
+<text x="288" y="1389" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(231, 239, 240)</text>
+<rect x="472" y="1282" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1282" width="180" height="56" rx="12" ry="12" fill="#C7DADC"/>
+<text x="484" y="1304" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sea Glass 2</text>
+<text x="484" y="1356" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 199, 218, 220</text>
+<text x="484" y="1373" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C7DADC</text>
+<text x="484" y="1389" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(199, 218, 220)</text>
+<rect x="668" y="1282" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1282" width="180" height="56" rx="12" ry="12" fill="#6C9EA4"/>
+<text x="680" y="1304" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sea Glass 3</text>
+<text x="680" y="1356" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 108, 158, 164</text>
+<text x="680" y="1373" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #6C9EA4</text>
+<text x="680" y="1389" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(108, 158, 164)</text>
+<rect x="864" y="1282" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1282" width="180" height="56" rx="12" ry="12" fill="#628E95"/>
+<text x="876" y="1304" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sea Glass 4</text>
+<text x="876" y="1356" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 98, 142, 149</text>
+<text x="876" y="1373" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #628E95</text>
+<text x="876" y="1389" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(98, 142, 149)</text>
+<rect x="1060" y="1282" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1282" width="180" height="56" rx="12" ry="12" fill="#547A82"/>
+<text x="1072" y="1304" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sea Glass 5</text>
+<text x="1072" y="1356" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 84, 122, 130</text>
+<text x="1072" y="1373" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #547A82</text>
+<text x="1072" y="1389" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(84, 122, 130)</text>
+<text x="56" y="1440" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Mineral Cyan</text>
+<text x="56" y="1462" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Technical highlight</text>
+<rect x="276" y="1416" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1416" width="180" height="56" rx="12" ry="12" fill="#E5F0F3"/>
+<text x="288" y="1438" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Mineral Cyan 1</text>
+<text x="288" y="1490" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 229, 240, 243</text>
+<text x="288" y="1507" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E5F0F3</text>
+<text x="288" y="1523" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(229, 240, 243)</text>
+<rect x="472" y="1416" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1416" width="180" height="56" rx="12" ry="12" fill="#C1DBE1"/>
+<text x="484" y="1438" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Mineral Cyan 2</text>
+<text x="484" y="1490" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 193, 219, 225</text>
+<text x="484" y="1507" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C1DBE1</text>
+<text x="484" y="1523" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(193, 219, 225)</text>
+<rect x="668" y="1416" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1416" width="180" height="56" rx="12" ry="12" fill="#5C9FB1"/>
+<text x="680" y="1438" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mineral Cyan 3</text>
+<text x="680" y="1490" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 92, 159, 177</text>
+<text x="680" y="1507" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #5C9FB1</text>
+<text x="680" y="1523" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(92, 159, 177)</text>
+<rect x="864" y="1416" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1416" width="180" height="56" rx="12" ry="12" fill="#548FA0"/>
+<text x="876" y="1438" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mineral Cyan 4</text>
+<text x="876" y="1490" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 84, 143, 160</text>
+<text x="876" y="1507" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #548FA0</text>
+<text x="876" y="1523" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(84, 143, 160)</text>
+<rect x="1060" y="1416" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1416" width="180" height="56" rx="12" ry="12" fill="#497B8B"/>
+<text x="1072" y="1438" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mineral Cyan 5</text>
+<text x="1072" y="1490" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 73, 123, 139</text>
+<text x="1072" y="1507" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #497B8B</text>
+<text x="1072" y="1523" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(73, 123, 139)</text>
+<text x="56" y="1574" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Aqua Teal</text>
+<text x="56" y="1596" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Modular pathway emphasis</text>
+<rect x="276" y="1550" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1550" width="180" height="56" rx="12" ry="12" fill="#E3F0EF"/>
+<text x="288" y="1572" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Aqua Teal 1</text>
+<text x="288" y="1624" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 227, 240, 239</text>
+<text x="288" y="1641" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E3F0EF</text>
+<text x="288" y="1657" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(227, 240, 239)</text>
+<rect x="472" y="1550" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1550" width="180" height="56" rx="12" ry="12" fill="#BCDCD9"/>
+<text x="484" y="1572" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Aqua Teal 2</text>
+<text x="484" y="1624" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 188, 220, 217</text>
+<text x="484" y="1641" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #BCDCD9</text>
+<text x="484" y="1657" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(188, 220, 217)</text>
+<rect x="668" y="1550" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1550" width="180" height="56" rx="12" ry="12" fill="#4FA39B"/>
+<text x="680" y="1572" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Aqua Teal 3</text>
+<text x="680" y="1624" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 79, 163, 155</text>
+<text x="680" y="1641" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4FA39B</text>
+<text x="680" y="1657" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(79, 163, 155)</text>
+<rect x="864" y="1550" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1550" width="180" height="56" rx="12" ry="12" fill="#49928D"/>
+<text x="876" y="1572" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Aqua Teal 4</text>
+<text x="876" y="1624" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 73, 146, 141</text>
+<text x="876" y="1641" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #49928D</text>
+<text x="876" y="1657" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(73, 146, 141)</text>
+<rect x="1060" y="1550" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1550" width="180" height="56" rx="12" ry="12" fill="#407D7C"/>
+<text x="1072" y="1572" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Aqua Teal 5</text>
+<text x="1072" y="1624" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 64, 125, 124</text>
+<text x="1072" y="1641" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #407D7C</text>
+<text x="1072" y="1657" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(64, 125, 124)</text>
+<text x="56" y="1682" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Green</text>
+<line x1="56" y1="1692" x2="1240" y2="1692" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="1738" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Sage Green</text>
+<text x="56" y="1760" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Stable or positive state</text>
+<rect x="276" y="1714" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1714" width="180" height="56" rx="12" ry="12" fill="#EBEFEA"/>
+<text x="288" y="1736" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sage Green 1</text>
+<text x="288" y="1788" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 235, 239, 234</text>
+<text x="288" y="1805" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EBEFEA</text>
+<text x="288" y="1821" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(235, 239, 234)</text>
+<rect x="472" y="1714" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1714" width="180" height="56" rx="12" ry="12" fill="#CED9CC"/>
+<text x="484" y="1736" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sage Green 2</text>
+<text x="484" y="1788" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 206, 217, 204</text>
+<text x="484" y="1805" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #CED9CC</text>
+<text x="484" y="1821" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(206, 217, 204)</text>
+<rect x="668" y="1714" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1714" width="180" height="56" rx="12" ry="12" fill="#7F9B7A"/>
+<text x="680" y="1736" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sage Green 3</text>
+<text x="680" y="1788" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 127, 155, 122</text>
+<text x="680" y="1805" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7F9B7A</text>
+<text x="680" y="1821" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(127, 155, 122)</text>
+<rect x="864" y="1714" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1714" width="180" height="56" rx="12" ry="12" fill="#728C71"/>
+<text x="876" y="1736" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sage Green 4</text>
+<text x="876" y="1788" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 114, 140, 113</text>
+<text x="876" y="1805" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #728C71</text>
+<text x="876" y="1821" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(114, 140, 113)</text>
+<rect x="1060" y="1714" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1714" width="180" height="56" rx="12" ry="12" fill="#617866"/>
+<text x="1072" y="1736" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sage Green 5</text>
+<text x="1072" y="1788" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 97, 120, 102</text>
+<text x="1072" y="1805" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #617866</text>
+<text x="1072" y="1821" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(97, 120, 102)</text>
+<text x="56" y="1872" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Moss Olive</text>
+<text x="56" y="1894" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Material and biology cues</text>
+<rect x="276" y="1848" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1848" width="180" height="56" rx="12" ry="12" fill="#EDEDE4"/>
+<text x="288" y="1870" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Moss Olive 1</text>
+<text x="288" y="1922" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 237, 237, 228</text>
+<text x="288" y="1939" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EDEDE4</text>
+<text x="288" y="1955" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(237, 237, 228)</text>
+<rect x="472" y="1848" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1848" width="180" height="56" rx="12" ry="12" fill="#D4D4C0"/>
+<text x="484" y="1870" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Moss Olive 2</text>
+<text x="484" y="1922" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 212, 212, 192</text>
+<text x="484" y="1939" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #D4D4C0</text>
+<text x="484" y="1955" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(212, 212, 192)</text>
+<rect x="668" y="1848" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1848" width="180" height="56" rx="12" ry="12" fill="#8D8D59"/>
+<text x="680" y="1870" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Moss Olive 3</text>
+<text x="680" y="1922" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 141, 141, 89</text>
+<text x="680" y="1939" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #8D8D59</text>
+<text x="680" y="1955" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(141, 141, 89)</text>
+<rect x="864" y="1848" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1848" width="180" height="56" rx="12" ry="12" fill="#7E8055"/>
+<text x="876" y="1870" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Moss Olive 4</text>
+<text x="876" y="1922" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 126, 128, 85</text>
+<text x="876" y="1939" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7E8055</text>
+<text x="876" y="1955" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(126, 128, 85)</text>
+<rect x="1060" y="1848" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1848" width="180" height="56" rx="12" ry="12" fill="#6A6E4F"/>
+<text x="1072" y="1870" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Moss Olive 5</text>
+<text x="1072" y="1922" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 106, 110, 79</text>
+<text x="1072" y="1939" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #6A6E4F</text>
+<text x="1072" y="1955" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(106, 110, 79)</text>
+<text x="56" y="2006" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Pine Green</text>
+<text x="56" y="2028" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Biological mechanism highlight</text>
+<rect x="276" y="1982" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="1982" width="180" height="56" rx="12" ry="12" fill="#E4EAE6"/>
+<text x="288" y="2004" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Pine Green 1</text>
+<text x="288" y="2056" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 228, 234, 230</text>
+<text x="288" y="2073" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E4EAE6</text>
+<text x="288" y="2089" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(228, 234, 230)</text>
+<rect x="472" y="1982" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="1982" width="180" height="56" rx="12" ry="12" fill="#BFCCC4"/>
+<text x="484" y="2004" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Pine Green 2</text>
+<text x="484" y="2056" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 191, 204, 196</text>
+<text x="484" y="2073" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #BFCCC4</text>
+<text x="484" y="2089" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(191, 204, 196)</text>
+<rect x="668" y="1982" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="1982" width="180" height="56" rx="12" ry="12" fill="#567A64"/>
+<text x="680" y="2004" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Pine Green 3</text>
+<text x="680" y="2056" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 86, 122, 100</text>
+<text x="680" y="2073" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #567A64</text>
+<text x="680" y="2089" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(86, 122, 100)</text>
+<rect x="864" y="1982" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="1982" width="180" height="56" rx="12" ry="12" fill="#4F6F5E"/>
+<text x="876" y="2004" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Pine Green 4</text>
+<text x="876" y="2056" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 79, 111, 94</text>
+<text x="876" y="2073" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4F6F5E</text>
+<text x="876" y="2089" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(79, 111, 94)</text>
+<rect x="1060" y="1982" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="1982" width="180" height="56" rx="12" ry="12" fill="#456157"/>
+<text x="1072" y="2004" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Pine Green 5</text>
+<text x="1072" y="2056" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 69, 97, 87</text>
+<text x="1072" y="2073" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #456157</text>
+<text x="1072" y="2089" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(69, 97, 87)</text>
+<text x="56" y="2140" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Fern Green</text>
+<text x="56" y="2162" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Supportive branch or module</text>
+<rect x="276" y="2116" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2116" width="180" height="56" rx="12" ry="12" fill="#E8EEE7"/>
+<text x="288" y="2138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Fern Green 1</text>
+<text x="288" y="2190" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 232, 238, 231</text>
+<text x="288" y="2207" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E8EEE7</text>
+<text x="288" y="2223" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(232, 238, 231)</text>
+<rect x="472" y="2116" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2116" width="180" height="56" rx="12" ry="12" fill="#C8D7C6"/>
+<text x="484" y="2138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Fern Green 2</text>
+<text x="484" y="2190" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 200, 215, 198</text>
+<text x="484" y="2207" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C8D7C6</text>
+<text x="484" y="2223" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(200, 215, 198)</text>
+<rect x="668" y="2116" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2116" width="180" height="56" rx="12" ry="12" fill="#6F956A"/>
+<text x="680" y="2138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Fern Green 3</text>
+<text x="680" y="2190" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 111, 149, 106</text>
+<text x="680" y="2207" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #6F956A</text>
+<text x="680" y="2223" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(111, 149, 106)</text>
+<rect x="864" y="2116" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2116" width="180" height="56" rx="12" ry="12" fill="#648663"/>
+<text x="876" y="2138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Fern Green 4</text>
+<text x="876" y="2190" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 100, 134, 99</text>
+<text x="876" y="2207" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #648663</text>
+<text x="876" y="2223" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(100, 134, 99)</text>
+<rect x="1060" y="2116" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2116" width="180" height="56" rx="12" ry="12" fill="#56745B"/>
+<text x="1072" y="2138" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Fern Green 5</text>
+<text x="1072" y="2190" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 86, 116, 91</text>
+<text x="1072" y="2207" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #56745B</text>
+<text x="1072" y="2223" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(86, 116, 91)</text>
+<text x="56" y="2248" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Earth / Ochre / Sand</text>
+<line x1="56" y1="2258" x2="1240" y2="2258" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="2304" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Amber Ochre</text>
+<text x="56" y="2326" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Process highlight</text>
+<rect x="276" y="2280" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2280" width="180" height="56" rx="12" ry="12" fill="#F3ECE3"/>
+<text x="288" y="2302" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Amber Ochre 1</text>
+<text x="288" y="2354" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 243, 236, 227</text>
+<text x="288" y="2371" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #F3ECE3</text>
+<text x="288" y="2387" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(243, 236, 227)</text>
+<rect x="472" y="2280" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2280" width="180" height="56" rx="12" ry="12" fill="#E1D3BC"/>
+<text x="484" y="2302" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Amber Ochre 2</text>
+<text x="484" y="2354" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 225, 211, 188</text>
+<text x="484" y="2371" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E1D3BC</text>
+<text x="484" y="2387" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(225, 211, 188)</text>
+<rect x="668" y="2280" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2280" width="180" height="56" rx="12" ry="12" fill="#B18A4E"/>
+<text x="680" y="2302" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Amber Ochre 3</text>
+<text x="680" y="2354" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 177, 138, 78</text>
+<text x="680" y="2371" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #B18A4E</text>
+<text x="680" y="2387" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(177, 138, 78)</text>
+<rect x="864" y="2280" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2280" width="180" height="56" rx="12" ry="12" fill="#9D7D4B"/>
+<text x="876" y="2302" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Amber Ochre 4</text>
+<text x="876" y="2354" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 157, 125, 75</text>
+<text x="876" y="2371" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #9D7D4B</text>
+<text x="876" y="2387" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(157, 125, 75)</text>
+<rect x="1060" y="2280" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2280" width="180" height="56" rx="12" ry="12" fill="#836C48"/>
+<text x="1072" y="2302" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Amber Ochre 5</text>
+<text x="1072" y="2354" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 131, 108, 72</text>
+<text x="1072" y="2371" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #836C48</text>
+<text x="1072" y="2387" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(131, 108, 72)</text>
+<text x="56" y="2438" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Terracotta</text>
+<text x="56" y="2460" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Intervention and comparison</text>
+<rect x="276" y="2414" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2414" width="180" height="56" rx="12" ry="12" fill="#F3E9E5"/>
+<text x="288" y="2436" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Terracotta 1</text>
+<text x="288" y="2488" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 243, 233, 229</text>
+<text x="288" y="2505" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #F3E9E5</text>
+<text x="288" y="2521" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(243, 233, 229)</text>
+<rect x="472" y="2414" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2414" width="180" height="56" rx="12" ry="12" fill="#E2CAC0"/>
+<text x="484" y="2436" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Terracotta 2</text>
+<text x="484" y="2488" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 226, 202, 192</text>
+<text x="484" y="2505" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E2CAC0</text>
+<text x="484" y="2521" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(226, 202, 192)</text>
+<rect x="668" y="2414" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2414" width="180" height="56" rx="12" ry="12" fill="#B2735A"/>
+<text x="680" y="2436" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Terracotta 3</text>
+<text x="680" y="2488" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 178, 115, 90</text>
+<text x="680" y="2505" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #B2735A</text>
+<text x="680" y="2521" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(178, 115, 90)</text>
+<rect x="864" y="2414" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2414" width="180" height="56" rx="12" ry="12" fill="#9E6956"/>
+<text x="876" y="2436" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Terracotta 4</text>
+<text x="876" y="2488" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 158, 105, 86</text>
+<text x="876" y="2505" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #9E6956</text>
+<text x="876" y="2521" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(158, 105, 86)</text>
+<rect x="1060" y="2414" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2414" width="180" height="56" rx="12" ry="12" fill="#845D50"/>
+<text x="1072" y="2436" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Terracotta 5</text>
+<text x="1072" y="2488" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 132, 93, 80</text>
+<text x="1072" y="2505" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #845D50</text>
+<text x="1072" y="2521" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(132, 93, 80)</text>
+<text x="56" y="2572" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Sandstone</text>
+<text x="56" y="2594" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Background segmentation</text>
+<rect x="276" y="2548" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2548" width="180" height="56" rx="12" ry="12" fill="#F5F2ED"/>
+<text x="288" y="2570" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sandstone 1</text>
+<text x="288" y="2622" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 245, 242, 237</text>
+<text x="288" y="2639" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #F5F2ED</text>
+<text x="288" y="2655" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(245, 242, 237)</text>
+<rect x="472" y="2548" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2548" width="180" height="56" rx="12" ry="12" fill="#E7E1D4"/>
+<text x="484" y="2570" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Sandstone 2</text>
+<text x="484" y="2622" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 231, 225, 212</text>
+<text x="484" y="2639" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E7E1D4</text>
+<text x="484" y="2655" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(231, 225, 212)</text>
+<rect x="668" y="2548" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2548" width="180" height="56" rx="12" ry="12" fill="#C1AF8D"/>
+<text x="680" y="2570" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sandstone 3</text>
+<text x="680" y="2622" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 193, 175, 141</text>
+<text x="680" y="2639" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C1AF8D</text>
+<text x="680" y="2655" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(193, 175, 141)</text>
+<rect x="864" y="2548" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2548" width="180" height="56" rx="12" ry="12" fill="#AB9D81"/>
+<text x="876" y="2570" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sandstone 4</text>
+<text x="876" y="2622" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 171, 157, 129</text>
+<text x="876" y="2639" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #AB9D81</text>
+<text x="876" y="2655" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(171, 157, 129)</text>
+<rect x="1060" y="2548" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2548" width="180" height="56" rx="12" ry="12" fill="#8E8572"/>
+<text x="1072" y="2570" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sandstone 5</text>
+<text x="1072" y="2622" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 142, 133, 114</text>
+<text x="1072" y="2639" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #8E8572</text>
+<text x="1072" y="2655" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(142, 133, 114)</text>
+<text x="56" y="2706" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Clay Brown</text>
+<text x="56" y="2728" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Structural material cue</text>
+<rect x="276" y="2682" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2682" width="180" height="56" rx="12" ry="12" fill="#EDE8E4"/>
+<text x="288" y="2704" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Clay Brown 1</text>
+<text x="288" y="2756" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 237, 232, 228</text>
+<text x="288" y="2773" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EDE8E4</text>
+<text x="288" y="2789" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(237, 232, 228)</text>
+<rect x="472" y="2682" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2682" width="180" height="56" rx="12" ry="12" fill="#D4C8C0"/>
+<text x="484" y="2704" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Clay Brown 2</text>
+<text x="484" y="2756" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 212, 200, 192</text>
+<text x="484" y="2773" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #D4C8C0</text>
+<text x="484" y="2789" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(212, 200, 192)</text>
+<rect x="668" y="2682" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2682" width="180" height="56" rx="12" ry="12" fill="#8D6E58"/>
+<text x="680" y="2704" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Clay Brown 3</text>
+<text x="680" y="2756" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 141, 110, 88</text>
+<text x="680" y="2773" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #8D6E58</text>
+<text x="680" y="2789" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(141, 110, 88)</text>
+<rect x="864" y="2682" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2682" width="180" height="56" rx="12" ry="12" fill="#7E6554"/>
+<text x="876" y="2704" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Clay Brown 4</text>
+<text x="876" y="2756" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 126, 101, 84</text>
+<text x="876" y="2773" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7E6554</text>
+<text x="876" y="2789" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(126, 101, 84)</text>
+<rect x="1060" y="2682" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2682" width="180" height="56" rx="12" ry="12" fill="#6A594E"/>
+<text x="1072" y="2704" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Clay Brown 5</text>
+<text x="1072" y="2756" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 106, 89, 78</text>
+<text x="1072" y="2773" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #6A594E</text>
+<text x="1072" y="2789" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(106, 89, 78)</text>
+<text x="56" y="2814" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Red / Rose / Plum</text>
+<line x1="56" y1="2824" x2="1240" y2="2824" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="2870" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Dusty Rose</text>
+<text x="56" y="2892" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Soft annotation layer</text>
+<rect x="276" y="2846" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2846" width="180" height="56" rx="12" ry="12" fill="#F3EAEC"/>
+<text x="288" y="2868" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Dusty Rose 1</text>
+<text x="288" y="2920" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 243, 234, 236</text>
+<text x="288" y="2937" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #F3EAEC</text>
+<text x="288" y="2953" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(243, 234, 236)</text>
+<rect x="472" y="2846" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2846" width="180" height="56" rx="12" ry="12" fill="#E2CDD2"/>
+<text x="484" y="2868" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Dusty Rose 2</text>
+<text x="484" y="2920" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 226, 205, 210</text>
+<text x="484" y="2937" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E2CDD2</text>
+<text x="484" y="2953" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(226, 205, 210)</text>
+<rect x="668" y="2846" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2846" width="180" height="56" rx="12" ry="12" fill="#B27C88"/>
+<text x="680" y="2868" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Dusty Rose 3</text>
+<text x="680" y="2920" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 178, 124, 136</text>
+<text x="680" y="2937" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #B27C88</text>
+<text x="680" y="2953" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(178, 124, 136)</text>
+<rect x="864" y="2846" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2846" width="180" height="56" rx="12" ry="12" fill="#9E717D"/>
+<text x="876" y="2868" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Dusty Rose 4</text>
+<text x="876" y="2920" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 158, 113, 125</text>
+<text x="876" y="2937" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #9E717D</text>
+<text x="876" y="2953" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(158, 113, 125)</text>
+<rect x="1060" y="2846" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2846" width="180" height="56" rx="12" ry="12" fill="#84636F"/>
+<text x="1072" y="2868" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Dusty Rose 5</text>
+<text x="1072" y="2920" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 132, 99, 111</text>
+<text x="1072" y="2937" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #84636F</text>
+<text x="1072" y="2953" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(132, 99, 111)</text>
+<text x="56" y="3004" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Mulberry Plum</text>
+<text x="56" y="3026" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Alternative branch or uncertainty</text>
+<rect x="276" y="2980" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="2980" width="180" height="56" rx="12" ry="12" fill="#EAE7EC"/>
+<text x="288" y="3002" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Mulberry Plum 1</text>
+<text x="288" y="3054" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 234, 231, 236</text>
+<text x="288" y="3071" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EAE7EC</text>
+<text x="288" y="3087" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(234, 231, 236)</text>
+<rect x="472" y="2980" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="2980" width="180" height="56" rx="12" ry="12" fill="#CEC5D3"/>
+<text x="484" y="3002" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Mulberry Plum 2</text>
+<text x="484" y="3054" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 206, 197, 211</text>
+<text x="484" y="3071" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #CEC5D3</text>
+<text x="484" y="3087" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(206, 197, 211)</text>
+<rect x="668" y="2980" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="2980" width="180" height="56" rx="12" ry="12" fill="#7D678B"/>
+<text x="680" y="3002" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mulberry Plum 3</text>
+<text x="680" y="3054" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 125, 103, 139</text>
+<text x="680" y="3071" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7D678B</text>
+<text x="680" y="3087" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(125, 103, 139)</text>
+<rect x="864" y="2980" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="2980" width="180" height="56" rx="12" ry="12" fill="#705F80"/>
+<text x="876" y="3002" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mulberry Plum 4</text>
+<text x="876" y="3054" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 112, 95, 128</text>
+<text x="876" y="3071" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #705F80</text>
+<text x="876" y="3087" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(112, 95, 128)</text>
+<rect x="1060" y="2980" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="2980" width="180" height="56" rx="12" ry="12" fill="#605471"/>
+<text x="1072" y="3002" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mulberry Plum 5</text>
+<text x="1072" y="3054" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 96, 84, 113</text>
+<text x="1072" y="3071" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #605471</text>
+<text x="1072" y="3087" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(96, 84, 113)</text>
+<text x="56" y="3138" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Brick Red</text>
+<text x="56" y="3160" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Strong intervention cue</text>
+<rect x="276" y="3114" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3114" width="180" height="56" rx="12" ry="12" fill="#F0E5E3"/>
+<text x="288" y="3136" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Brick Red 1</text>
+<text x="288" y="3188" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 240, 229, 227</text>
+<text x="288" y="3205" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #F0E5E3</text>
+<text x="288" y="3221" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(240, 229, 227)</text>
+<rect x="472" y="3114" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3114" width="180" height="56" rx="12" ry="12" fill="#DCC1BD"/>
+<text x="484" y="3136" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Brick Red 2</text>
+<text x="484" y="3188" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 220, 193, 189</text>
+<text x="484" y="3205" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #DCC1BD</text>
+<text x="484" y="3221" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(220, 193, 189)</text>
+<rect x="668" y="3114" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3114" width="180" height="56" rx="12" ry="12" fill="#A35D52"/>
+<text x="680" y="3136" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Brick Red 3</text>
+<text x="680" y="3188" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 163, 93, 82</text>
+<text x="680" y="3205" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #A35D52</text>
+<text x="680" y="3221" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(163, 93, 82)</text>
+<rect x="864" y="3114" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3114" width="180" height="56" rx="12" ry="12" fill="#91564F"/>
+<text x="876" y="3136" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Brick Red 4</text>
+<text x="876" y="3188" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 145, 86, 79</text>
+<text x="876" y="3205" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #91564F</text>
+<text x="876" y="3221" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(145, 86, 79)</text>
+<rect x="1060" y="3114" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3114" width="180" height="56" rx="12" ry="12" fill="#794E4A"/>
+<text x="1072" y="3136" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Brick Red 5</text>
+<text x="1072" y="3188" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 121, 78, 74</text>
+<text x="1072" y="3205" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #794E4A</text>
+<text x="1072" y="3221" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(121, 78, 74)</text>
+<text x="56" y="3272" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Wine Red</text>
+<text x="56" y="3294" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">High-contrast negative state</text>
+<rect x="276" y="3248" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3248" width="180" height="56" rx="12" ry="12" fill="#EAE2E4"/>
+<text x="288" y="3270" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Wine Red 1</text>
+<text x="288" y="3322" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 234, 226, 228</text>
+<text x="288" y="3339" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EAE2E4</text>
+<text x="288" y="3355" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(234, 226, 228)</text>
+<rect x="472" y="3248" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3248" width="180" height="56" rx="12" ry="12" fill="#CEBBC0"/>
+<text x="484" y="3270" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Wine Red 2</text>
+<text x="484" y="3322" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 206, 187, 192</text>
+<text x="484" y="3339" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #CEBBC0</text>
+<text x="484" y="3355" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(206, 187, 192)</text>
+<rect x="668" y="3248" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3248" width="180" height="56" rx="12" ry="12" fill="#7D4B59"/>
+<text x="680" y="3270" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Wine Red 3</text>
+<text x="680" y="3322" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 125, 75, 89</text>
+<text x="680" y="3339" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7D4B59</text>
+<text x="680" y="3355" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(125, 75, 89)</text>
+<rect x="864" y="3248" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3248" width="180" height="56" rx="12" ry="12" fill="#704755"/>
+<text x="876" y="3270" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Wine Red 4</text>
+<text x="876" y="3322" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 112, 71, 85</text>
+<text x="876" y="3339" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #704755</text>
+<text x="876" y="3355" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(112, 71, 85)</text>
+<rect x="1060" y="3248" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3248" width="180" height="56" rx="12" ry="12" fill="#60414F"/>
+<text x="1072" y="3270" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Wine Red 5</text>
+<text x="1072" y="3322" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 96, 65, 79</text>
+<text x="1072" y="3339" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #60414F</text>
+<text x="1072" y="3355" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(96, 65, 79)</text>
+<text x="56" y="3380" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#314252">Neutral</text>
+<line x1="56" y1="3390" x2="1240" y2="3390" stroke="#D6DDE5" stroke-width="1"/>
+<text x="56" y="3436" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Cool Gray</text>
+<text x="56" y="3458" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Neutral framework</text>
+<rect x="276" y="3412" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3412" width="180" height="56" rx="12" ry="12" fill="#EAECEE"/>
+<text x="288" y="3434" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Cool Gray 1</text>
+<text x="288" y="3486" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 234, 236, 238</text>
+<text x="288" y="3503" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EAECEE</text>
+<text x="288" y="3519" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(234, 236, 238)</text>
+<rect x="472" y="3412" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3412" width="180" height="56" rx="12" ry="12" fill="#CED2D7"/>
+<text x="484" y="3434" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Cool Gray 2</text>
+<text x="484" y="3486" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 206, 210, 215</text>
+<text x="484" y="3503" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #CED2D7</text>
+<text x="484" y="3519" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(206, 210, 215)</text>
+<rect x="668" y="3412" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3412" width="180" height="56" rx="12" ry="12" fill="#7E8895"/>
+<text x="680" y="3434" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Cool Gray 3</text>
+<text x="680" y="3486" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 126, 136, 149</text>
+<text x="680" y="3503" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #7E8895</text>
+<text x="680" y="3519" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(126, 136, 149)</text>
+<rect x="864" y="3412" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3412" width="180" height="56" rx="12" ry="12" fill="#717B88"/>
+<text x="876" y="3434" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Cool Gray 4</text>
+<text x="876" y="3486" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 113, 123, 136</text>
+<text x="876" y="3503" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #717B88</text>
+<text x="876" y="3519" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(113, 123, 136)</text>
+<rect x="1060" y="3412" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3412" width="180" height="56" rx="12" ry="12" fill="#606B78"/>
+<text x="1072" y="3434" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Cool Gray 5</text>
+<text x="1072" y="3486" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 96, 107, 120</text>
+<text x="1072" y="3503" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #606B78</text>
+<text x="1072" y="3519" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(96, 107, 120)</text>
+<text x="56" y="3570" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Warm Gray</text>
+<text x="56" y="3592" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Substrate and context</text>
+<rect x="276" y="3546" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3546" width="180" height="56" rx="12" ry="12" fill="#EFEDEB"/>
+<text x="288" y="3568" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Warm Gray 1</text>
+<text x="288" y="3620" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 239, 237, 235</text>
+<text x="288" y="3637" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EFEDEB</text>
+<text x="288" y="3653" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(239, 237, 235)</text>
+<rect x="472" y="3546" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3546" width="180" height="56" rx="12" ry="12" fill="#D8D4D0"/>
+<text x="484" y="3568" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Warm Gray 2</text>
+<text x="484" y="3620" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 216, 212, 208</text>
+<text x="484" y="3637" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #D8D4D0</text>
+<text x="484" y="3653" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(216, 212, 208)</text>
+<rect x="668" y="3546" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3546" width="180" height="56" rx="12" ry="12" fill="#998E84"/>
+<text x="680" y="3568" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Warm Gray 3</text>
+<text x="680" y="3620" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 153, 142, 132</text>
+<text x="680" y="3637" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #998E84</text>
+<text x="680" y="3653" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(153, 142, 132)</text>
+<rect x="864" y="3546" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3546" width="180" height="56" rx="12" ry="12" fill="#88807A"/>
+<text x="876" y="3568" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Warm Gray 4</text>
+<text x="876" y="3620" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 136, 128, 122</text>
+<text x="876" y="3637" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #88807A</text>
+<text x="876" y="3653" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(136, 128, 122)</text>
+<rect x="1060" y="3546" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3546" width="180" height="56" rx="12" ry="12" fill="#736F6C"/>
+<text x="1072" y="3568" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Warm Gray 5</text>
+<text x="1072" y="3620" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 115, 111, 108</text>
+<text x="1072" y="3637" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #736F6C</text>
+<text x="1072" y="3653" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(115, 111, 108)</text>
+<text x="56" y="3704" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Lavender Gray</text>
+<text x="56" y="3726" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">Uncertainty background neutral</text>
+<rect x="276" y="3680" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3680" width="180" height="56" rx="12" ry="12" fill="#EDECEF"/>
+<text x="288" y="3702" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Lavender Gray 1</text>
+<text x="288" y="3754" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 237, 236, 239</text>
+<text x="288" y="3771" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #EDECEF</text>
+<text x="288" y="3787" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(237, 236, 239)</text>
+<rect x="472" y="3680" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3680" width="180" height="56" rx="12" ry="12" fill="#D5D3D9"/>
+<text x="484" y="3702" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Lavender Gray 2</text>
+<text x="484" y="3754" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 213, 211, 217</text>
+<text x="484" y="3771" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #D5D3D9</text>
+<text x="484" y="3787" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(213, 211, 217)</text>
+<rect x="668" y="3680" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3680" width="180" height="56" rx="12" ry="12" fill="#918B9C"/>
+<text x="680" y="3702" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Lavender Gray 3</text>
+<text x="680" y="3754" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 145, 139, 156</text>
+<text x="680" y="3771" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #918B9C</text>
+<text x="680" y="3787" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(145, 139, 156)</text>
+<rect x="864" y="3680" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3680" width="180" height="56" rx="12" ry="12" fill="#817E8E"/>
+<text x="876" y="3702" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Lavender Gray 4</text>
+<text x="876" y="3754" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 129, 126, 142</text>
+<text x="876" y="3771" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #817E8E</text>
+<text x="876" y="3787" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(129, 126, 142)</text>
+<rect x="1060" y="3680" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3680" width="180" height="56" rx="12" ry="12" fill="#6D6D7D"/>
+<text x="1072" y="3702" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Lavender Gray 5</text>
+<text x="1072" y="3754" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 109, 109, 125</text>
+<text x="1072" y="3771" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #6D6D7D</text>
+<text x="1072" y="3787" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(109, 109, 125)</text>
+<text x="56" y="3838" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#243240">Graphite Neutral</text>
+<text x="56" y="3860" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#667382">High-contrast neutral anchor</text>
+<rect x="276" y="3814" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="276" y="3814" width="180" height="56" rx="12" ry="12" fill="#E5E7E8"/>
+<text x="288" y="3836" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Graphite Neutral 1</text>
+<text x="288" y="3888" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 229, 231, 232</text>
+<text x="288" y="3905" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #E5E7E8</text>
+<text x="288" y="3921" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(229, 231, 232)</text>
+<rect x="472" y="3814" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="472" y="3814" width="180" height="56" rx="12" ry="12" fill="#C2C5C9"/>
+<text x="484" y="3836" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#203040">Graphite Neutral 2</text>
+<text x="484" y="3888" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 194, 197, 201</text>
+<text x="484" y="3905" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #C2C5C9</text>
+<text x="484" y="3921" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(194, 197, 201)</text>
+<rect x="668" y="3814" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="668" y="3814" width="180" height="56" rx="12" ry="12" fill="#5F6670"/>
+<text x="680" y="3836" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Graphite Neutral 3</text>
+<text x="680" y="3888" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 95, 102, 112</text>
+<text x="680" y="3905" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #5F6670</text>
+<text x="680" y="3921" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(95, 102, 112)</text>
+<rect x="864" y="3814" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="864" y="3814" width="180" height="56" rx="12" ry="12" fill="#565E68"/>
+<text x="876" y="3836" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Graphite Neutral 4</text>
+<text x="876" y="3888" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 86, 94, 104</text>
+<text x="876" y="3905" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #565E68</text>
+<text x="876" y="3921" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(86, 94, 104)</text>
+<rect x="1060" y="3814" width="180" height="114" rx="12" ry="12" fill="#FFFFFF" stroke="#D5DDE5" stroke-width="1"/>
+<rect x="1060" y="3814" width="180" height="56" rx="12" ry="12" fill="#4B545F"/>
+<text x="1072" y="3836" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Graphite Neutral 5</text>
+<text x="1072" y="3888" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">RGB 75, 84, 95</text>
+<text x="1072" y="3905" font-family="Menlo, Consolas, monospace" font-size="12" fill="#25303A">HEX #4B545F</text>
+<text x="1072" y="3921" font-family="Menlo, Consolas, monospace" font-size="11" fill="#52606D">RGB(75, 84, 95)</text>
+</svg>
