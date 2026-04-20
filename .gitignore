@@ -1,2 +1,3 @@
+# Repository-wide Python cache ignores
 __pycache__/
 *.pyc
